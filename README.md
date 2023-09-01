@@ -1,10 +1,16 @@
 <img src="https://camo.githubusercontent.com/92319113a91e6741b5c0e7dc3386161ff7ad93ceadc1e53d663682a90136ec14/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f677765622d756e69626c6f672d7075626c6973682d70726f642f6f726967696e616c5f696d616765732f31363332305f416e64726f69645f31325f426c6f675f4865616465725f6f70745f3331782e676966" alt="Android"/>
 <h1 align="center">Hi 👋, I'm Paraji Holkar</h1>
-<h3 align="center">I am student in PES Modern College of Engineering, Pune</h3>
+<h3 align="center">I'm third-year student at PES Modern College of Engineering, Pune</h3>
 
 <p align="left"> <a href="https://twitter.com/paraji_holkar" target="blank"><img src="https://img.shields.io/twitter/follow/paraji_holkar?logo=twitter&style=for-the-badge" alt="paraji_holkar" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development | Flutter**.
+  
+- 💬 Ask me about **Android Development | Flutter | Data structure and Algorithm**.
+  
+- 👯 I'm open to collaborations on **Android Development | Flutter Projects** and always excited to work on interesting projects.
+  
+- 😊 Feel free to reach out if you'd like to connect, collaborate, or just chat about Android development and tech in general.
 
 - 📫 How to reach me **parajiholkar81@gmail.com**
 
