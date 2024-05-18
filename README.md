@@ -6,13 +6,15 @@
 
 - 🌱 I’m currently learning **Android Development | Flutter**.
   
-- 💬 Ask me about **Android Development | Flutter | Data structure and Algorithm**.
+- 💬 Ask me about **Android Development | Flutter | Firebase | Data structure and Algorithm**.
   
 - 👯 I'm open to collaborations on **Android Development | Flutter Projects** and always excited to work on interesting projects.
   
 - 😊 Feel free to reach out if you'd like to connect, collaborate, or just chat about Android development and tech in general.
 
 - 📫 How to reach me **parajiholkar81@gmail.com**
+
+- 👉✨ Check out my portfolio here [Paraji Holkar's Portfolio](https://parajiholkar.github.io/portfolio-paraji-holkar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
